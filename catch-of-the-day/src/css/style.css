@@ -11,8 +11,6 @@
   -webkit-transform: translateX(0);
           transform: translateX(0);
   padding: 2rem 0 !important;
-  -webkit-transform: translateX(0);
-          transform: translateX(0);
 }
 .order-exit {
   -webkit-transition: 0.5s;
